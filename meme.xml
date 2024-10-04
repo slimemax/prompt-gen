@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+    <category name="Color &amp; Light">
+        <word>crimson</word>
+        <word>cerulean</word>
+        <word>amber</word>
+        <word>emerald</word>
+        <word>scarlet</word>
+        <word>sapphire</word>
+        <word>ivory</word>
+    </category>
+    <category name="Texture &amp; Surface">
+        <word>silky</word>
+        <word>sleek</word>
+        <word>rugged</word>
+        <word>grainy</word>
+        <word>marbled</word>
+        <word>mosaic</word>
+        <word>translucent</word>
+    </category>
+    <category name="Shape &amp; Form">
+        <word>angular</word>
+        <word>spherical</word>
+        <word>twisted</word>
+        <word>gnarled</word>
+        <word>spiral</word>
+        <word>domed</word>
+    </category>
+    <category name="Movement &amp; Dynamics">
+        <word>cascading</word>
+        <word>rippling</word>
+        <word>soaring</word>
+        <word>darting</word>
+        <word>crashing</word>
+        <word>surging</word>
+    </category>
+    <category name="Emotional &amp; Atmospheric">
+        <word>serene</word>
+        <word>ominous</word>
+        <word>enigmatic</word>
+        <word>celestial</word>
+        <word>tempestuous</word>
+        <word>haunting</word>
+    </category>
+    <category name="Scale &amp; Size">
+        <word>colossal</word>
+        <word>delicate</word>
+        <word>petite</word>
+        <word>expansive</word>
+        <word>moderate</word>
+        <word>proportional</word>
+    </category>
+    <category name="Setting &amp; Environment">
+        <word>verdant</word>
+        <word>industrial</word>
+        <word>arcane</word>
+        <word>ancient</word>
+        <word>gothic</word>
+        <word>labyrinthine</word>
+    </category>
+    <category name="Characters &amp; Figures">
+        <word>muscular</word>
+        <word>graceful</word>
+        <word>ferocious</word>
+        <word>ethereal</word>
+        <word>tattered</word>
+        <word>defiant</word>
+    </category>
+    <category name="Elements &amp; Materials">
+        <word>obsidian</word>
+        <word>sandstone</word>
+        <word>glacial</word>
+        <word>aqueous</word>
+        <word>fiery</word>
+        <word>vaporous</word>
+    </category>
+    <category name="Composition &amp; Layout">
+        <word>mirrored</word>
+        <word>harmonious</word>
+        <word>fragmented</word>
+        <word>chaotic</word>
+        <word>focal</word>
+        <word>tessellated</word>
+    </category>
+    <category name="Objects">
+        <word>lantern</word>
+        <word>vase</word>
+        <word>sword</word>
+        <word>ship</word>
+        <word>castle</word>
+        <word>bridge</word>
+        <word>chandelier</word>
+    </category>
+    <category name="Landscapes">
+        <word>mountain range</word>
+        <word>desert dune</word>
+        <word>forested glen</word>
+        <word>ocean cliff</word>
+        <word>meadow</word>
+        <word>volcanic plain</word>
+    </category>
+    <category name="Animals">
+        <word>lion</word>
+        <word>tiger</word>
+        <word>elephant</word>
+        <word>falcon</word>
+        <word>shark</word>
+        <word>dragon</word>
+        <word>phoenix</word>
+    </category>
+    <category name="Numbers">
+        <word>one</word>
+        <word>two</word>
+        <word>three</word>
+        <word>four</word>
+        <word>five</word>
+        <word>six</word>
+        <word>seven</word>
+        <word>eight</word>
+        <word>nine</word>
+        <word>ten</word>
+    </category>
+    <category name="Miscellaneous">
+        <word>more</word>
+        <word>count</word>
+        <word>number</word>
+        <word>complex</word>
+        <word>simple</word>
+        <word>intricate</word>
+        <word>elaborate</word>
+    </category>
+    <category name="Themes">
+        <word>surreal</word>
+        <word>dreamlike</word>
+        <word>mythical</word>
+        <word>ethereal</word>
+        <word>futuristic</word>
+        <word>dystopian</word>
+        <word>apocalyptic</word>
+    </category>
+    <category name="People Characters">
+        <word>warrior</word>
+        <word>mage</word>
+        <word>thief</word>
+        <word>queen</word>
+        <word>knight</word>
+        <word>peasant</word>
+        <word>merchant</word>
+    </category>
+    <category name="Directions">
+        <word>in front of</word>
+        <word>behind</word>
+        <word>to the left of</word>
+        <word>to the right of</word>
+        <word>above</word>
+        <word>below</word>
+        <word>next to</word>
+    </category>
+    <category name="Meme Characters">
+        <word>pepe</word>
+        <word>apu</word>
+        <word>wojak</word>
+        <word>feels guy</word>
+        <word>giga chad</word>
+        <word>coomer</word>
+        <word>doomer</word>
+        <word>boomer</word>
+        <word>soyjack</word>
+        <word>sadge</word>
+        <word>monkaS</word>
+        <word>pog</word>
+        <word>kek</word>
+        <word>based</word>
+    </category>
+    <category name="Meme Phrases">
+        <word>feels good man</word>
+        <word>such wow</word>
+        <word>that face when</word>
+        <word>okay buddy</word>
+        <word>do you even</word>
+        <word>is this a pigeon?</word>
+        <word>it’s over</word>
+        <word>let me in</word>
+        <word>this is fine</word>
+        <word>hold my beer</word>
+    </category>
+    <category name="Meme Formats">
+        <word>drakeposting</word>
+        <word>expanding brain</word>
+        <word>change my mind</word>
+        <word>galaxy brain</word>
+        <word>chad vs virgin</word>
+        <word>ancient aliens</word>
+        <word>hide the pain harold</word>
+        <word>gru's plan</word>
+        <word>surprised pikachu</word>
+        <word>success kid</word>
+    </category>
+</categories>
+
