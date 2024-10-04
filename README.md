@@ -1,4 +1,3 @@
-Here is a `README.md` file for your project:
 
 ```markdown
 # Visual Descriptor Prompt Builder
